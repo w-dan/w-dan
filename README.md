@@ -8,5 +8,5 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&theme=github_dark&line_height=24&hide=prs">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=w-dan&theme=github_dark&layout=compact&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=w-dan&theme=github_dark&layout=compact&card_width=215">
 </p>
