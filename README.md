@@ -10,3 +10,9 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&theme=github_dark&line_height=24&hide=prs">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=w-dan&theme=github_dark&layout=compact&card_width=215">
 </p>
+
+
+<p align = "center">
+    <img  src = "https://github-readme-streak-stats.herokuapp.com?user=w-dan&date_format=M%20j%5B%2C%20Y%5D&background=0D1017&border=999AA0&stroke=999AA0&currStreakNum=49CBDD&sideNums=4E7AC4&fire=49CBDD&currStreakLabel=4E7AC4&sideLabels=D1CCC4&dates=D1CCC4&ring=4E7AC4" />
+</p>
+
