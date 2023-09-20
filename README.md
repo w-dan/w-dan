@@ -34,12 +34,13 @@
 <br><br>
 
 <!-- GitHub stats -->
-<p align = "center">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w-dan&show_icons=true&locale=en&layout=compact&theme=github_dark&line_height=24&hide=prs" alt="w-dan" />
+<p align = "center">
 	<img src = "https://readme-typing-svg.herokuapp.com?color=5992F1&center=true&lines=My+GitHub+stats"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&locale=en&theme=github_dark&layout=compact&card_width=215" alt="w-dan" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&locale=en&theme=github_dark&layout=compact&card_width=215" alt="w-dan" /></p>
+
 
 
 <p align="center">
