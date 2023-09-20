@@ -18,6 +18,8 @@
 
 </p>
 
+<br><br>
+
 <!-- Technology stack -->
 <p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?color=5992F1&center=true&lines=Technology+stack"/></p>
 
