@@ -40,7 +40,7 @@
 
 <p align = "center">
   <!--img  src = "https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&theme=github_dark&line_height=24&hide=prs" -->
-  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=w-dan&theme=transparent" alt="w-dan">
+  <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=w-dan&theme=transparent" alt="w-dan"> <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=w-dan&theme=transparent"/>
   <!-- img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=w-dan&theme=github_dark&layout=compact&card_width=215"-->
   <!--img src = "https://activity-graph.herokuapp.com/graph?username=w-dan&theme=react-dark&color=417ed9" -->
