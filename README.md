@@ -12,9 +12,9 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/w-dan/w-dan"/> 
- <img src=https://badges.strrl.dev/years/w-dan/>
- <img src="https://badges.pufler.dev/repos/w-dan"/>
- <img src="https://badges.pufler.dev/commits/monthly/w-dan" />
+ <img src="https://badges.strrl.dev/years/w-dan/">
+ <img src="https://badges.strrl.dev/repos/w-dan"/>
+ <img src="https://badges.strrl.dev/commits/monthly/w-dan"/>
 
 </p>
 
