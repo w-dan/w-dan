@@ -36,7 +36,7 @@
 <br><br>
 
 <!-- GitHub stats -->
-<p align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=5992F1&center=true&lines=My+GitHub+stats"/></p>
+<p align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=5992F1&center=true&lines=My+GitHub+stats"/> </p>
 
 <p align = "center">
   <!--img  src = "https://github-readme-stats.vercel.app/api?username=w-dan&show_icons=true&theme=github_dark&line_height=24&hide=prs" -->
