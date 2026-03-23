@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">Always passionate to learn</h3>
 
 <!-- Header -->
 <p align="center">
